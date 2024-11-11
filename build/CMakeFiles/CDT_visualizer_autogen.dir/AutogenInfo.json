@@ -1,0 +1,63 @@
+{
+	"BUILD_DIR" : "/home/luziang/桌面/PointTexture/build/CDT_visualizer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/luziang/桌面/PointTexture/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/luziang/桌面/PointTexture/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/luziang/桌面/PointTexture/CDT/visualizer",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/luziang/桌面/PointTexture/CDT/visualizer",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/luziang/桌面/PointTexture/build/CDT_visualizer_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/luziang/桌面/PointTexture/build/CDT_visualizer_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/luziang/桌面/PointTexture/CDT/CDT/include",
+		"/home/luziang/桌面/PointTexture/CDT/CDT/extras",
+		"/home/luziang/anaconda3/include/qt",
+		"/home/luziang/anaconda3/include/qt/QtWidgets",
+		"/home/luziang/anaconda3/include/qt/QtGui",
+		"/home/luziang/anaconda3/include/qt/QtCore",
+		"/home/luziang/anaconda3/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++-9",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/luziang/桌面/PointTexture/build/CDT_visualizer_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/luziang/桌面/PointTexture/build/CMakeFiles/CDT_visualizer_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/luziang/anaconda3/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/luziang/桌面/PointTexture/build/CMakeFiles/CDT_visualizer_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/luziang/桌面/PointTexture/CDT/visualizer/main.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}

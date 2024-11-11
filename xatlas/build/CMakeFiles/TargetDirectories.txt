@@ -1,0 +1,3 @@
+/Users/luziang/Documents/2024-2025 研二/PointTexture/xatlas/build/CMakeFiles/Example.dir
+/Users/luziang/Documents/2024-2025 研二/PointTexture/xatlas/build/CMakeFiles/edit_cache.dir
+/Users/luziang/Documents/2024-2025 研二/PointTexture/xatlas/build/CMakeFiles/rebuild_cache.dir

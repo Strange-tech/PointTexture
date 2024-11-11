@@ -1,0 +1,14 @@
+/home/luziang/桌面/PointTexture/build/CMakeFiles/install/strip.dir
+/home/luziang/桌面/PointTexture/build/CMakeFiles/install.dir
+/home/luziang/桌面/PointTexture/build/CMakeFiles/list_install_components.dir
+/home/luziang/桌面/PointTexture/build/CMakeFiles/rebuild_cache.dir
+/home/luziang/桌面/PointTexture/build/CMakeFiles/edit_cache.dir
+/home/luziang/桌面/PointTexture/build/CMakeFiles/install/local.dir
+/home/luziang/桌面/PointTexture/build/CMakeFiles/CDT_visualizer.dir
+/home/luziang/桌面/PointTexture/build/CMakeFiles/CDT_visualizer_autogen.dir
+/home/luziang/桌面/PointTexture/build/CDT/CMakeFiles/install/strip.dir
+/home/luziang/桌面/PointTexture/build/CDT/CMakeFiles/install.dir
+/home/luziang/桌面/PointTexture/build/CDT/CMakeFiles/list_install_components.dir
+/home/luziang/桌面/PointTexture/build/CDT/CMakeFiles/rebuild_cache.dir
+/home/luziang/桌面/PointTexture/build/CDT/CMakeFiles/edit_cache.dir
+/home/luziang/桌面/PointTexture/build/CDT/CMakeFiles/install/local.dir
